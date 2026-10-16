@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+*.pth
+*.mp4
+*.avi
+*.mov
+*.mkv
+runs/
+result.mp4
+result.jpg
+.vscode/
+.idea/
